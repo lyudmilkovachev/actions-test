@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The Future in Tech</title>
+    <link>https://raybo.org/tfit-feed</link>
+    <description>Conversations with leaders building next generation techology tools.</description>
+    <language>en-us</language>
+    <atom:link href="https://raybo.org/tfit-feed/podcast.xml" rel="self" type="application/rss+xml" />
+    <image>
+      <url>https://raybo.org/tfit-feed/images/artwork.jpg</url>
+      <title>The Future in Tech</title>
+      <link>https://raybo.org/tfit-feed</link>
+    </image>
+    <itunes:author>Ray Villalobos</itunes:author>
+    <itunes:subtitle>Powered by LinkedIn Learning</itunes:subtitle>
+    <itunes:summary>Conversations with leaders building next generation techology tools.</itunes:summary>
+    <itunes:image href="https://raybo.org/tfit-feed/images/artwork.jpg" />
+    <itunes:category text="Technology" />
+    <item>
+      <title>EP01-What's Happening in 2023</title>
+      <description>Ray Villalobos and Content Managers Natalie Pao and Simon St. Laurent discuss what 2023 holds for the future in technology.</description>
+      <pubDate>Thu, 12 Jan 2023 18:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://raybo.org/tfit-feed/audio/TFIT01.mp3</guid>
+      <enclosure url="https://raybo.org/tfit-feed/audio/TFIT01.mp3" length="576324" type="audio/mpeg" />
+      <itunes:duration>00:00:36</itunes:duration>
+    </item>
+    <item>
+      <title>EP02-What is Generative AI?</title>
+      <description>Pinar Demirdag discusses the fundamentals of generative AI, its practical applications, and future developments as companies create AI strategies in 2023.</description>
+      <pubDate>Thu, 19 Jan 2023 18:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://raybo.org/tfit-feed/audio/TFIT02.mp3</guid>
+      <enclosure url="https://raybo.org/tfit-feed/audio/TFIT02.mp3" length="351963" type="audio/mpeg" />
+      <itunes:duration>00:00:22</itunes:duration>
+    </item>
+    <item>
+      <title>EP03-How Generative AI Will Change DevOps</title>
+      <description>Jerome Hardaway explores how generative AI can revolutionize the software development process by increasing efficiency, automating repetitive tasks, and creating more sophisticated and innovative solutions.</description>
+      <pubDate>Thu, 26 Jan 2023 18:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://raybo.org/tfit-feed/audio/TFIT03.mp3</guid>
+      <enclosure url="https://raybo.org/tfit-feed/audio/TFIT03.mp3" length="305488" type="audio/mpeg" />
+      <itunes:duration>00:00:19</itunes:duration>
+    </item>
+    <item>
+      <title>EP04-Building Responsible AI Systems</title>
+      <description>Ayodele Odubela, a Data Scientist, Machine Learning professional and AI Entrepreneur, discusses the ethical issues surrounding the rapid adoption of AI systems, including transparency, minimizing bias, ensuring fairness, and potential ramifications around privacy, security, and governance.</description>
+      <pubDate>Thu, 2 Feb 2023 18:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://raybo.org/tfit-feed/audio/TFIT04.mp3</guid>
+      <enclosure url="https://raybo.org/tfit-feed/audio/TFIT04.mp3" length="470668" type="audio/mpeg" />
+      <itunes:duration>00:00:29</itunes:duration>
+    </item>
+    <item>
+      <title>EP05-Crafting an AI Strategy For Your Business</title>
+      <description>Andreas Welsch joins this discussion to share insights on crafting an AI strategy for businesses that considers evolving technology, ethics, and legal implications, drawing from his extensive experience in managing stakeholder relationships and leading AI projects across Fortune 500 companies.</description>
+      <pubDate>Thu, 9 Feb 2023 18:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://raybo.org/tfit-feed/audio/TFIT05.mp3</guid>
+      <enclosure url="https://raybo.org/tfit-feed/audio/TFIT05.mp3" length="352587" type="audio/mpeg" />
+      <itunes:duration>00:00:22</itunes:duration>
+    </item>
+  </channel>
+</rss>
